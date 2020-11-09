@@ -1,6 +1,30 @@
 # Pesticidas
 ## Pesticidas usos
 Los plaguicidas son productos químicos que se utilizan en la agricultura para proteger los cultivos contra insectos, hongos, malezas y otras plagas. Además de usarse en la agricultura, se emplean para controlar vectores de enfermedades tropicales, como los mosquitos, y así proteger la salud pública.(OMS)
+
+**¿Qué es?**
+Un pesticida es cualquier sustancia elaborada para controlar diversas plagas y transmisores de enfermedades, como mosquitos, garrapatas, ratas y ratones.
+
+**Objetivo:**
+- Prevenir, destruir, repeler o controlar una plaga.
+- Utilizarlo como regulador de crecimiento de plantas, defoliante o desecante.
+- Utilizarlo como estabilizador de nitrógeno.
+
+**Agricultura**
+Los pesticidas se utilizan en la agricultura para controlar las malezas, la infestación de insectos y las enfermedades.
+
+**Tipos de pesticidas**
+Existen muchos tipos diferentes de pesticidas y cada uno sirve para combatir plagas especificas. Estos son algunos ejemplos:
+- **Alguicidas** para matar las algas y/o desacelerar su proliferación.
+- **Antimicrobianos** para controlar los gérmenes y los microbios como bacterias y virus.
+- **Desinfectantes** para controlar los gérmenes y los microbios como bacterias y virus.
+- **Fungicidas** para controlar problemas de hongos como el moho, el mildiu y el óxido.
+- **Herbicidas** para matar o inhibir el crecimiento de plantas no deseadas, también conocidas como malezas.
+- **Insecticidas** para controlar los insectos.
+- **Reguladores** de crecimiento de los insectos para interrumpir el crecimiento y la reproducción de insectos.
+- **Rodenticidas** para matar roedores como ratones, ratas y taltuzas.
+- **Preservantes** para madera para que la madera se haga resistente a insectos, hongos y otras plagas.
+
 ## Efectos en las personas y en animales
 Sin embargo, los plaguicidas también son potencialmente tóxicos para los seres humanos. Pueden tener efectos perjudiciales para la salud, por ejemplo, provocar cáncer o acarrear consecuencias para los sistemas reproductivo, inmunitario o nervioso. Antes de que se autorice su uso, los plaguicidas deben estudiarse a fin de determinar todos sus posibles efectos para la salud, y los resultados deben ser analizados por expertos que evalúen cualquier riesgo que los productos puedan entrañar para las personas.(OMS)
 ![Ciclo dede pesticidas en el medio ambiente](https://www.salyroca.es/media/salyroca/images/2018/03/22//2018032212541250333.jpg)
@@ -33,6 +57,8 @@ La exposición tiene lugar cuando un pesticida es inhalado, toca la piel, o se c
 ## Pesticidas en Chile
 ## Bibliografía
 OMS https://www.who.int/features/qa/87/es/
+
+Información básica sobre pesticidas https://espanol.epa.gov/espanol/informacion-basica-sobre-pesticidas
 
 Pesticidas https://medlineplus.gov/spanish/pesticides.html
 
