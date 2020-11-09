@@ -83,3 +83,13 @@ Pesticidas https://medlineplus.gov/spanish/pesticides.html
 
 https://www.salyroca.es/articulo/lyfestyle/asi-afectan-plaguicidas-medio-ambiente-consecuencias-agua/20180322130257004599.html
 
+Pesticidas en chile https://www.gacetasanitaria.org/es-exposicion-plaguicidas-chile-salud-poblacional-avance-S0213911120301291?referer=buscador
+
+Efectos neurotóxicos https://pubmed.ncbi.nlm.nih.gov/9336067/
+
+Investigación en la región del Maule https://www.sciencedirect.com/science/article/pii/S021391111600008X?via%3Dihub
+
+Temporeras intoxicadas: https://onlinelibrary.wiley.com/doi/abs/10.1002/em.20085
+
+Plaguicidas prohibidos en el mundo se usan en Chile: https://www.elmostrador.cl/destacado/2019/01/17/la-muerte-silenciosa-uso-en-chile-de-plaguicidas-prohibidos-en-el-mundo-causa-dano-cognitivo-en-menores/#:~:text=En%20Chile%20se%20ha%20reportado,grupos%20alta%20o%20moderadamente%20peligrosos.
+
