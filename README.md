@@ -10,3 +10,5 @@ OMS https://www.who.int/features/qa/87/es/
 
 Pesticidas https://medlineplus.gov/spanish/pesticides.html
 
+https://www.salyroca.es/articulo/lyfestyle/asi-afectan-plaguicidas-medio-ambiente-consecuencias-agua/20180322130257004599.html
+
