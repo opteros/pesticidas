@@ -4,6 +4,12 @@ Los plaguicidas son productos químicos que se utilizan en la agricultura para p
 ## Efectos en las personas y en animales
 Sin embargo, los plaguicidas también son potencialmente tóxicos para los seres humanos. Pueden tener efectos perjudiciales para la salud, por ejemplo, provocar cáncer o acarrear consecuencias para los sistemas reproductivo, inmunitario o nervioso. Antes de que se autorice su uso, los plaguicidas deben estudiarse a fin de determinar todos sus posibles efectos para la salud, y los resultados deben ser analizados por expertos que evalúen cualquier riesgo que los productos puedan entrañar para las personas.(OMS)
 ![Ciclo dede pesticidas en el medio ambiente](https://www.salyroca.es/media/salyroca/images/2018/03/22//2018032212541250333.jpg)
+El riesgo derivado del uso de los plaguicidas depende de dos cosas: la toxicidad del pesticida, y la duración de la exposición. En otras palabras,
+Riesgo = Toxicidad x Exposición
+
+La toxicidad puede ir de baja a mayor, y puede variar dependiendo de la ruta de exposición. La Palabra Señal en los plaguicidas es una manera de determinar generalmente el nivel de toxicidad de un pesticida.
+
+La exposición tiene lugar cuando un pesticida es inhalado, toca la piel, o se come.
 ## Pesticidas en Chile
 ## Bibliografía
 OMS https://www.who.int/features/qa/87/es/
