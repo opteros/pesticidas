@@ -23,11 +23,11 @@ La exposición tiene lugar cuando un pesticida es inhalado, toca la piel, o se c
 
 - Los niños suelen pasar más tiempo cerca del suelo, tocando zócalos y céspedes donde los pesticidas pueden haber sido aplicados.
 
--Los niños a menudo comen y beben más en relación con su peso corporal que los adultos, lo que puede conducir a una mayor dosis de plaguicida por kilogramo de peso corporal.
+- Los niños a menudo comen y beben más en relación con su peso corporal que los adultos, lo que puede conducir a una mayor dosis de plaguicida por kilogramo de peso corporal.
 
--Los bebés que se arrastran sobre alfombras tratadas pueden tener un mayor potencial para desprender residuos de pesticidas sobre su piel o respirar polvo cargado de pesticidas.
+- Los bebés que se arrastran sobre alfombras tratadas pueden tener un mayor potencial para desprender residuos de pesticidas sobre su piel o respirar polvo cargado de pesticidas.
 
--Los niños pequeños son más propensos a poner sus dedos, juguetes y otros objetos a la boca.
+- Los niños pequeños son más propensos a poner sus dedos, juguetes y otros objetos a la boca.
 
 
 ## Pesticidas en Chile
