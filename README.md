@@ -72,6 +72,10 @@ En cuanto a estudios realizados en Chile sobre los efectos genotóxicos y carcin
 
 Vinculado a los efectos reproductivos, [un estudio publicado en el año 2000 estableció una incidencia de malformaciones congénitas de 41,24/1000 recién nacidos vivos en el Hospital de Rancagua](https://pubmed.ncbi.nlm.nih.gov/10962857/), en la Región de O’Higgins. Esta es una zona eminentemente agrícola, y se determinó que el 28% de los casos tenía padres con antecedentes de trabajo agrícola, mientras que con padres no agrícolas solo se reportó un 15% de casos de malformaciones.
 
+### Impacto en las abejas 
+
+Respecto a los plaguicidas, el informe de la Agencia Europea de Seguridad Alimentaria (EFSA, por sus siglas en inglés) indica que los plaguicidas de la familia de los neonicotinoides (clotianidina, tiametoxam e imidacloprid) [están produciendo efectos negativos en las abejas](https://www.camara.cl/verDoc.aspx?prmID=128743&prmTIPO=DOCUMENTOCOMISION#:~:text=El%20efecto%20que%20provocan%20estos,sistema%20inmunol%C3%B3gico%20de%20dichos%20insectos.). Los efectos generales que provocan estos plaguicidas en las abejas son: cambio en el comportamiento de forrajeo, disminución de la frecuencia de apareamiento, reducción en la producción de abeja reina y falla del sistema inmunológico
+
 ### Regularización de los pesticidas 
 **Proceso para registrar un pesticida en la EPA:**
 El proceso para registrar un pesticida es un procedimiento científico, legal y administrativo a través del cual se examinan:
@@ -102,4 +106,6 @@ Temporeras intoxicadas: https://onlinelibrary.wiley.com/doi/abs/10.1002/em.20085
 Plaguicidas prohibidos en el mundo se usan en Chile: https://www.elmostrador.cl/destacado/2019/01/17/la-muerte-silenciosa-uso-en-chile-de-plaguicidas-prohibidos-en-el-mundo-causa-dano-cognitivo-en-menores/#:~:text=En%20Chile%20se%20ha%20reportado,grupos%20alta%20o%20moderadamente%20peligrosos.
 
 Malformaciones congénitas en O'Higgins https://pubmed.ncbi.nlm.nih.gov/10962857/
+
+Plaguicidas afectando a las abejas https://www.camara.cl/verDoc.aspx?prmID=128743&prmTIPO=DOCUMENTOCOMISION#:~:text=El%20efecto%20que%20provocan%20estos,sistema%20inmunol%C3%B3gico%20de%20dichos%20insectos.
 
