@@ -13,6 +13,22 @@ La toxicidad puede ir de baja a mayor, y puede variar dependiendo de la ruta de 
 
 La exposición tiene lugar cuando un pesticida es inhalado, toca la piel, o se come. Las personas entran en contacto con los pesticidas de muchas maneras, incluyendo: Cuando los plaguicidas son usados en y alrededor de nuestras casas y jardines, Cuando los pesticidas se usan en nuestras mascotas, Cuando se trabaja con plaguicidas, Cuando los plaguicidas son empleados en nuestras comunidades o medio ambiente, Cuando se usan pesticidas en los alimentos que comemos.
 
+###Los bebés y los niños son más sensibles a los efectos tóxicos de los pesticidas que los adultos. 
+
+- El cerebro, el sistema nervioso y los órganos de un bebé aún están en desarrollo después del nacimiento.
+
+- Al exponerse, el hígado y los riñones inmaduros del bebé no pueden eliminar los pesticidas del cuerpo como el hígado y los riñones de un adulto.
+
+- Los infantes también pueden estar expuestos a más pesticidas que los adultos, ya que toman más respiraciones por minuto y tienen más superficie de piel en relación a su peso corporal.
+
+- Los niños suelen pasar más tiempo cerca del suelo, tocando zócalos y céspedes donde los pesticidas pueden haber sido aplicados.
+
+-Los niños a menudo comen y beben más en relación con su peso corporal que los adultos, lo que puede conducir a una mayor dosis de plaguicida por kilogramo de peso corporal.
+
+-Los bebés que se arrastran sobre alfombras tratadas pueden tener un mayor potencial para desprender residuos de pesticidas sobre su piel o respirar polvo cargado de pesticidas.
+
+-Los niños pequeños son más propensos a poner sus dedos, juguetes y otros objetos a la boca.
+
 
 ## Pesticidas en Chile
 ## Bibliografía
