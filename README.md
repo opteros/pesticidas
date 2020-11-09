@@ -72,8 +72,13 @@ En cuanto a estudios realizados en Chile sobre los efectos genotóxicos y carcin
 
 Vinculado a los efectos reproductivos, [un estudio publicado en el año 2000 estableció una incidencia de malformaciones congénitas de 41,24/1000 recién nacidos vivos en el Hospital de Rancagua](https://pubmed.ncbi.nlm.nih.gov/10962857/), en la Región de O’Higgins. Esta es una zona eminentemente agrícola, y se determinó que el 28% de los casos tenía padres con antecedentes de trabajo agrícola, mientras que con padres no agrícolas solo se reportó un 15% de casos de malformaciones.
 
-### Pesticidas en las abejas
 ### Regularización de los pesticidas 
+**Proceso para registrar un pesticida en la EPA:**
+El proceso para registrar un pesticida es un procedimiento científico, legal y administrativo a través del cual se examinan:
+- los ingredientes del producto basado en pesticidas;
+- el sitio o cultivo donde se utilizará;
+- la cantidad, frecuencia y tiempo de uso; y
+- las prácticas de almacenamiento y eliminación.
 
 ## Bibliografía
 OMS https://www.who.int/features/qa/87/es/
@@ -81,6 +86,8 @@ OMS https://www.who.int/features/qa/87/es/
 Información básica sobre pesticidas https://espanol.epa.gov/espanol/informacion-basica-sobre-pesticidas
 
 Pesticidas https://medlineplus.gov/spanish/pesticides.html
+
+Nitrógeno en las plantas: https://cropaia.com/es/blog/nitrogeno-en-las-plantas/
 
 https://www.salyroca.es/articulo/lyfestyle/asi-afectan-plaguicidas-medio-ambiente-consecuencias-agua/20180322130257004599.html
 
