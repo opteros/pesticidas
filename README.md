@@ -70,6 +70,7 @@ El primer estudio que investigó el daño en la salud por exposición a plaguici
 
 En cuanto a estudios realizados en Chile sobre los efectos genotóxicos y carcinógenos estimó el daño genético en linfocitos de 22 aplicadores de plaguicidas de la región del Biobío. Este estudio no demostró asociación entre riesgo genotóxico y exposición laboral a plaguicidas31. Sin embargo, en mujeres temporeras de la misma zona que realizaban labores de raleo, poda, cosecha y empaque de frutas, sin ningún tipo de protección personal, [se estableció un daño genético en linfocitos 3,7 veces mayor en comparación con un grupo controlado](https://onlinelibrary.wiley.com/doi/abs/10.1002/em.20085)
 
+Vinculado a los efectos reproductivos, [un estudio publicado en el año 2000 estableció una incidencia de malformaciones congénitas de 41,24/1000 recién nacidos vivos en el Hospital de Rancagua](https://pubmed.ncbi.nlm.nih.gov/10962857/), en la Región de O’Higgins. Esta es una zona eminentemente agrícola, y se determinó que el 28% de los casos tenía padres con antecedentes de trabajo agrícola, mientras que con padres no agrícolas solo se reportó un 15% de casos de malformaciones.
 
 ### Pesticidas en las abejas
 ### Regularización de los pesticidas 
@@ -92,4 +93,6 @@ Investigación en la región del Maule https://www.sciencedirect.com/science/art
 Temporeras intoxicadas: https://onlinelibrary.wiley.com/doi/abs/10.1002/em.20085
 
 Plaguicidas prohibidos en el mundo se usan en Chile: https://www.elmostrador.cl/destacado/2019/01/17/la-muerte-silenciosa-uso-en-chile-de-plaguicidas-prohibidos-en-el-mundo-causa-dano-cognitivo-en-menores/#:~:text=En%20Chile%20se%20ha%20reportado,grupos%20alta%20o%20moderadamente%20peligrosos.
+
+Malformaciones congénitas en O'Higgins https://pubmed.ncbi.nlm.nih.gov/10962857/
 
