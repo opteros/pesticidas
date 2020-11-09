@@ -8,7 +8,7 @@ Un pesticida es cualquier sustancia elaborada para controlar diversas plagas y t
 **Objetivo:**
 - Prevenir, destruir, repeler o controlar una plaga.
 - Utilizarlo como regulador de crecimiento de plantas, defoliante o desecante.
-- Utilizarlo como estabilizador de nitrógeno.
+- Utilizarlo como estabilizador de nitrógeno. (El nitrógeno es un nutriente esencial que todas las plantas requieren para un crecimiento adecuado.)
 
 **Agricultura**
 Los pesticidas se utilizan en la agricultura para controlar las malezas, la infestación de insectos y las enfermedades.
