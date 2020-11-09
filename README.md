@@ -59,6 +59,21 @@ Todos los pesticidas tienen algún grado de toxicidad y presentan un riesgo dura
 
 
 ## Pesticidas en Chile
+
+En 2018, la Dra. Floria Pancetti junto a un grupo de investigadores, publicó un estudio de biomonitoreo de colinesterasas sanguíneas y actividades de acilpéptidos hidrolasas como efecto a la contaminación por plaguicidas. “Medimos un indicador biológico indirecto que es la inhibición de unas enzimas que están presentes en la sangre y que son los bioindicadores que contempla la legislación chilena para determinar que haya exposición en los trabajadores, que son unas enzimas llamadas colinesterasas”, señala Pancetti. 
+
+Si estas enzimas presentan más de un 30% de inhibición durante la fumigación en comparación con un valor basal que se toma antes de la fumigación, indica que esa persona está en riesgo de intoxicación. En el estudio se detectó que, tanto entre los trabajadores agrícolas como la gente que vive en zonas y pueblos rurales aledaños a las plantaciones en la época de fumigación, 1 de cada 4 personas presentaba la inhibición por más del 30% del bioindicador.
+
+Dentro de los efectos de los plaguicidas en chile se han investigado en factores neurotóxicos, genotóxicos, carcinógenos y reproductivos:
+
+El primer estudio que investigó el daño en la salud por exposición a plaguicidas en Chile evaluó los efectos neuropsiquiátricos de la exposición a bromuro de metilo (CH3Br) en trabajadores de empresas exportadoras de frutas y semillas de una zona rural de Santiago. Se halló un aumento de la concentración de CH3Br en sangre, de 13,3mg/dl antes de fumigar a 30mg/dl después de hacerlo. Este aumento se acompañó de mayor frecuencia de insomnio, dolores de cabeza, parestesias, cambios de humor, pérdida de la memoria y disminución de la concentración, en comparación con un grupo control. [En la región del Maule se evaluó](https://www.sciencedirect.com/science/article/pii/S021391111600008X?via%3Dihub) el rendimiento neuropsicológico y motor de trabajadores agrícolas, que mostraron un menor desempeño en comprensión verbal, sensibilidad discriminativa y velocidad de procesamiento, en comparación con trabajadores no expuestos.
+
+En cuanto a estudios realizados en Chile sobre los efectos genotóxicos y carcinógenos estimó el daño genético en linfocitos de 22 aplicadores de plaguicidas de la región del Biobío. Este estudio no demostró asociación entre riesgo genotóxico y exposición laboral a plaguicidas31. Sin embargo, en mujeres temporeras de la misma zona que realizaban labores de raleo, poda, cosecha y empaque de frutas, sin ningún tipo de protección personal, [se estableció un daño genético en linfocitos 3,7 veces mayor en comparación con un grupo controlado](https://onlinelibrary.wiley.com/doi/abs/10.1002/em.20085)
+
+
+### Pesticidas en las abejas
+### Regularización de los pesticidas 
+
 ## Bibliografía
 OMS https://www.who.int/features/qa/87/es/
 
